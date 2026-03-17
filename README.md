@@ -22,7 +22,7 @@ Para testar este projeto:
 3. Executar o arquivo inserir_dados.sql
 4. Executar as consultas em consultas.sql
 
-## Tecnologias utilizadas
+## Linguagem utilizada
 
 - MySQL
 - SQL
